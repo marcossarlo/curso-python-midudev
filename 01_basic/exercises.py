@@ -1,4 +1,9 @@
 ###
+# https://www.twitch.tv/videos/2354087841ideo de las clases Basic
+# https://www.twitch.tv/videos/2354087841
+###
+
+###
 # exercises.py
 # Ejercicios para practicar los conceptos aprendidos en las lecciones.
 ###
