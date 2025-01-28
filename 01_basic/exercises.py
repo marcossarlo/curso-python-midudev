@@ -11,7 +11,7 @@
 print("\nEjercicio 1: Imprimir mensajes")
 print("Escribe un programa que imprima tu nombre y tu ciudad en líneas separadas.")
 ### Completa aquí
-name = "MArcosSarlo"
+name = "MarcosSarlo"
 city = "Tarma - Perú"
 print(f"Mi nombre es: {name}")
 print(f"Mi ciudad es: {city}")
