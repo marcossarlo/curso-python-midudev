@@ -35,4 +35,5 @@ Mira los cursos y participa en vivo en
 | **Clases**              | **Recursos**                                                                                     |
 |---------------------------|------------------------------------------------------------------------------------------------------|
 | **1. Hola Mundo, Tipos de Datos, Conversión de tipos y Variables**  | [Código](https://github.com/midudev/curso-python/tree/main/01_basic) <br/> [Vídeo](https://www.twitch.tv/videos/2354087841) |
-| **2. Booleanos, Condicionales, Listas, Bucles y Funciones**             | Código (se emite hoy) <br/> Vídeo (se emite hoy) |
+| **2. Booleanos, Condicionales, Listas, Bucles y Funciones**             | 
+[Código](https://github.com/midudev/curso-python/tree/main/01_basic) <br/> [Vídeo](https://www.twitch.tv/videos/2360535344) |
