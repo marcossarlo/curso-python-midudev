@@ -49,8 +49,8 @@ print(sandwich)
 print("\nEjercicio 4: Duplicando la lista")
 list = [1, 2, 3]
 print(list)
-#new_list = list + list
-list += list
+new_list = list + list
+#list += list
 print(list)
 
 # Ejercicio 5: Extrayendo el centro
