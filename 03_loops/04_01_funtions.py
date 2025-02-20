@@ -88,8 +88,3 @@ mostrar_informacion_de(nick="pheralb", es_sub=True, is_rich=True)
 print("\n")
 mostrar_informacion_de(super_name="felixicaza", es_modo=True, gatos=40)
 
-# Ejercicios
-# Volver a los ejercicios anteriores
-# y convertirlos en funciones
-# e intentar utilizar todos los casos y conceptos
-# que hemos visto hasta ahora
